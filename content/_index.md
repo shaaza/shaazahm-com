@@ -23,7 +23,7 @@ I'm learning to write poetry [with Josh Hallam once a week](https://ko-fi.com/wo
 
 # What am I reading right now?
 
-Kerri Maher's The Paris Bookseller, and skimming through ten other books. 
+Kerri Maher's [The Paris Bookseller](https://www.amazon.co.uk/Paris-Bookseller-Kerri-Maher-ebook/dp/B097GF2B38), and skimming through ten other books. 
 
 
 # Contact me

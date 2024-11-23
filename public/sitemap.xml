@@ -25,8 +25,8 @@
         <loc>https://jimmyff.github.io/zola-inky/posts/</loc>
     </url>
     <url>
-        <loc>https://jimmyff.github.io/zola-inky/posts/responsive-images/</loc>
-        <lastmod>2023-01-12</lastmod>
+        <loc>https://jimmyff.github.io/zola-inky/posts/papert/</loc>
+        <lastmod>2016-08-16</lastmod>
     </url>
     <url>
         <loc>https://jimmyff.github.io/zola-inky/reading/</loc>
@@ -49,6 +49,9 @@
         <loc>https://jimmyff.github.io/zola-inky/tags/dolor-sit-amet/</loc>
     </url>
     <url>
+        <loc>https://jimmyff.github.io/zola-inky/tags/education/</loc>
+    </url>
+    <url>
         <loc>https://jimmyff.github.io/zola-inky/tags/gallery/</loc>
     </url>
     <url>
@@ -56,6 +59,12 @@
     </url>
     <url>
         <loc>https://jimmyff.github.io/zola-inky/tags/markdown/</loc>
+    </url>
+    <url>
+        <loc>https://jimmyff.github.io/zola-inky/tags/papert/</loc>
+    </url>
+    <url>
+        <loc>https://jimmyff.github.io/zola-inky/tags/personal/</loc>
     </url>
     <url>
         <loc>https://jimmyff.github.io/zola-inky/tags/theme/</loc>

@@ -5,4 +5,4 @@ template = "posts.html"
 page_template = "post.html"
 +++
 
-Here are some example posts. The posts are grouped by year.
+Nothing here yet, checkout [my Medium account](https://medium.com/@shaaz_a) from my college days for some content.

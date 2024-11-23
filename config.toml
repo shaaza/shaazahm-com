@@ -1,6 +1,6 @@
 theme = 'zola-inky'
 title = "Shaaz Ahmed"
-description = "shaazahm.com"
+description = "@shaazahm's personal website"
 
 # The URL the site will be built for
 base_url = "https://jimmyff.github.io/zola-inky"
@@ -37,7 +37,7 @@ anchors = "on"
 [extra]
 
 # Place your avatar in your /static folder
-avatar = "/inky.png"
+avatar = "/little-prince-logo.png"
 
 # Your Google Analytics measurement id ("G-XXXXXXXXXX")
 # google_analytics_tag_id = "";

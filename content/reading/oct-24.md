@@ -7,7 +7,7 @@ tags= ["Zola", "Theme", "Markdown", "Typography"]
 +++
 
 
-This book by Oliver Pourriol was recommended to me, ironically, by one of the hardest working people I know. And the title resonated well with my current goal of removing superfluous strain from the way I work and live. I've come across this concept before, for example in Derek Sivers' blog post [Relax for the same result](https://sive.rs/relax) or in my years playing cricket seriously. However, this book goes so much further, really giving you a feeling of ease--I couldn't stop underlining some brilliant ideas. 
+This book by Oliver Pourriol was recommended to me, ironically, by one of the hardest working people I know. And the title resonated well with my current goal of removing superfluous strain from the way I work and live. I've come across this concept before, for example in Derek Sivers' blog post [Relax for the same result](https://sive.rs/relax) or in my years playing cricket seriously. However, this book goes so much further, really giving you a feeling of ease–I couldn't stop underlining some brilliant ideas. 
 
 
 ### Embrace imperfection
