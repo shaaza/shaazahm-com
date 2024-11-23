@@ -3,7 +3,7 @@ title = "Shaaz Ahmed"
 description = "@shaazahm's personal website"
 
 # The URL the site will be built for
-base_url = "https://jimmyff.github.io/zola-inky"
+base_url = "https://shaazahm.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
