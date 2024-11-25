@@ -17,7 +17,7 @@ I'm an Indian-origin, Dubai-raised, Dublin-brewed third-culture kid. I'm either 
 
 I'm currently Head of Engineering at Shuttle, a YC-backed startup building a developer-friendly cloud infra platform to build backends quickly in Rust. 
 
-AI tend to have an [overarching quest](https://randsinrepose.com/archives/you-are-going-on-a-quest/) driving me at ang given point. Currently, it's trying to change my relationship with work, by harmonizing being and doing, heart and head, work and life. Some things that have helped tremendously include a daily [meditation practice](https://www.wakingup.com/), weekly [leadership coaching](https://arnaudsaintpaul.com/), a supportive work environment and books by authors such as [Iain McGilchrist, Oliver Pourriol and Brene Brown](reading).
+I tend to have an [overarching quest](https://randsinrepose.com/archives/you-are-going-on-a-quest/) driving me at different stages of life. Currently, that quest is learning to change my relationship with work, by harmonizing being and doing, heart and head, work and life. Some things that have helped tremendously include a daily [meditation practice](https://www.wakingup.com/), weekly [leadership coaching](https://arnaudsaintpaul.com/), a supportive work environment and books by authors such as [Iain McGilchrist, Oliver Pourriol and Brene Brown](reading).
 
 I'm also learning to write poetry [with Josh Hallam once a week](https://ko-fi.com/wordspace), training to bowl faster [with Ross Dewar's cricket training programme](https://cricketstrength.com/) and learning Arabic [through Trinity College Dublin's evening classes](https://www.tcd.ie/nmes/courses/evening-course/arabic/#:~:text=Course%20Fee,will%20be%20organised%20for%20you).
 
