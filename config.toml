@@ -71,8 +71,6 @@ menu_links = [
     { url = "$BASE_URL/about/", name = "About" },
     { url = "$BASE_URL/posts/", name = "Blog" },
     { url = "$BASE_URL/reading/", name = "Reading" },
-    { url = "$BASE_URL/gallery/", name = "Gallery" },
-    { url = "$BASE_URL/tags/", name = "Tags" },
     # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
     { url = "$BASE_URL/search/", name = "Search" },
 ]
