@@ -69,8 +69,9 @@ thumbnail_sizes = [128, 256]
 menu_links = [
     { url = "$BASE_URL/", name = "Home" },
     { url = "$BASE_URL/about/", name = "About" },
-    { url = "$BASE_URL/posts/", name = "Blog" },
-    { url = "$BASE_URL/reading/", name = "Reading" },
+    { url = "https://shaaz.substack.com/archive", name = "Blog" },
+    { url = "https://publish.obsidian.md/shaazahm/", name = "Writing" },
+    { url = "https://shaaz.substack.com/s/book-reviews", name = "Reading" },
     # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
     { url = "$BASE_URL/search/", name = "Search" },
 ]

@@ -25,7 +25,7 @@ I'm learning to write poetry [with Josh Hallam once a week](https://ko-fi.com/wo
 
 ### What am I reading?
 
-Check out my [reading](reading) page.
+Check out my [reading](https://shaaz.substack.com/s/book-reviews) page.
 
 
 # Contact me
